@@ -1,0 +1,945 @@
+ticket_id,customer_id,ticket_date,issue_type,issue_description,priority,ticket_status,resolution_days
+TICK000001,CUST0002,2025-06-15,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,0
+TICK000002,CUST0002,2025-05-29,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Closed,5
+TICK000003,CUST0002,2024-12-10,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Critical,In Progress,
+TICK000004,CUST0002,2024-10-19,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,5
+TICK000005,CUST0002,2026-02-24,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,10
+TICK000006,CUST0002,2024-09-25,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Low,Closed,8
+TICK000007,CUST0002,2025-04-16,Billing,Customer disputed an unexpected charge on the monthly bill.,Low,Closed,5
+TICK000008,CUST0003,2023-06-04,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,0
+TICK000009,CUST0004,2022-04-10,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,9
+TICK000010,CUST0005,2026-05-13,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Low,In Progress,
+TICK000011,CUST0006,2022-03-26,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,0
+TICK000012,CUST0007,2024-01-21,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,4
+TICK000013,CUST0007,2023-05-15,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,In Progress,
+TICK000014,CUST0007,2023-03-03,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,In Progress,
+TICK000015,CUST0007,2024-11-20,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Open,
+TICK000016,CUST0007,2024-12-10,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,In Progress,
+TICK000017,CUST0007,2023-10-12,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Open,
+TICK000018,CUST0008,2023-08-21,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,6
+TICK000019,CUST0008,2025-11-29,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,10
+TICK000020,CUST0008,2021-12-07,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,9
+TICK000021,CUST0009,2025-05-27,Internet,Customer reported that internet service is working well after recent upgrade.,Medium,Open,
+TICK000022,CUST0009,2020-02-20,Service Outage,Customer confirmed service was restored after the outage notification.,Low,Closed,6
+TICK000023,CUST0010,2025-11-25,Mobile,Customer asked about mobile data usage shown on the account.,Medium,Closed,3
+TICK000024,CUST0011,2026-01-16,Service Outage,Customer reported internet and TV outage affecting remote work.,Critical,Closed,1
+TICK000025,CUST0012,2025-09-23,Service Outage,Customer confirmed service was restored after the outage notification.,Medium,Closed,5
+TICK000026,CUST0013,2024-04-11,Mobile,Customer complained that mobile data was slower than expected.,Low,Closed,2
+TICK000027,CUST0014,2026-04-18,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,In Progress,
+TICK000028,CUST0014,2024-08-18,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,In Progress,
+TICK000029,CUST0014,2025-12-29,Billing,Customer was frustrated that payment was posted but balance still showed due.,Low,Closed,6
+TICK000030,CUST0014,2025-06-26,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Low,In Progress,
+TICK000031,CUST0014,2025-02-16,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Closed,4
+TICK000032,CUST0015,2025-11-17,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Low,Closed,0
+TICK000033,CUST0016,2026-05-31,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Critical,Closed,2
+TICK000034,CUST0016,2022-05-15,Internet,Customer contacted support to confirm improved internet speed after router replacement.,Medium,Closed,0
+TICK000035,CUST0017,2026-02-24,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,10
+TICK000036,CUST0017,2026-05-15,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,8
+TICK000037,CUST0018,2025-01-17,Billing,Customer asked why promotional pricing changed this month.,Low,Closed,9
+TICK000038,CUST0019,2024-12-20,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Closed,4
+TICK000039,CUST0019,2024-07-13,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,3
+TICK000040,CUST0019,2023-03-24,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,In Progress,
+TICK000041,CUST0019,2026-05-01,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,In Progress,
+TICK000042,CUST0019,2023-09-07,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,0
+TICK000043,CUST0019,2023-12-27,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Critical,Closed,1
+TICK000044,CUST0019,2025-09-16,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Closed,9
+TICK000045,CUST0022,2026-01-22,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,4
+TICK000046,CUST0022,2024-09-01,TV,Customer reported missing channels from the TV package.,Medium,Closed,7
+TICK000047,CUST0023,2024-07-14,Billing,Customer requested clarification on monthly bill charges.,Medium,In Progress,
+TICK000048,CUST0023,2025-11-19,Billing,Customer disputed an unexpected charge on the monthly bill.,High,In Progress,
+TICK000049,CUST0023,2024-10-09,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,8
+TICK000050,CUST0023,2024-09-27,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Low,Closed,0
+TICK000051,CUST0023,2025-11-15,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Open,
+TICK000052,CUST0023,2025-06-14,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,In Progress,
+TICK000053,CUST0023,2024-10-27,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Open,
+TICK000054,CUST0023,2025-06-08,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,In Progress,
+TICK000055,CUST0024,2023-04-26,Internet,Customer reported that internet service is working well after recent upgrade.,Medium,Open,
+TICK000056,CUST0027,2023-12-07,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,6
+TICK000057,CUST0027,2026-05-03,Internet,Customer contacted support to confirm improved internet speed after router replacement.,Low,Closed,6
+TICK000058,CUST0028,2025-06-24,Billing,Customer disputed an unexpected charge on the monthly bill.,High,Closed,10
+TICK000059,CUST0028,2025-01-17,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Open,
+TICK000060,CUST0029,2025-07-03,Internet,Customer contacted support to confirm improved internet speed after router replacement.,Medium,Closed,2
+TICK000061,CUST0029,2023-02-07,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Closed,1
+TICK000062,CUST0029,2026-01-04,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Open,
+TICK000063,CUST0029,2023-10-09,Billing,Customer requested clarification on monthly bill charges.,Medium,In Progress,
+TICK000064,CUST0031,2024-01-18,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,9
+TICK000065,CUST0035,2020-01-26,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,5
+TICK000066,CUST0036,2023-11-09,Mobile,Customer requested help activating a new mobile line.,High,Closed,8
+TICK000067,CUST0037,2024-08-19,TV,Customer reported missing channels from the TV package.,Medium,Open,
+TICK000068,CUST0037,2025-04-26,Billing,Customer thanked support for explaining the promotional discount on the bill.,Low,Closed,6
+TICK000069,CUST0040,2023-01-01,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,1
+TICK000070,CUST0041,2025-08-15,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Low,Closed,8
+TICK000071,CUST0041,2024-08-21,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,6
+TICK000072,CUST0042,2024-01-18,Service Outage,Customer reported internet and TV outage affecting remote work.,High,In Progress,
+TICK000073,CUST0045,2025-02-23,Billing,Customer requested clarification on monthly bill charges.,High,Closed,3
+TICK000074,CUST0046,2025-10-16,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,Closed,1
+TICK000075,CUST0046,2023-01-30,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,0
+TICK000076,CUST0046,2023-12-21,Billing,Customer asked why promotional pricing changed this month.,Critical,Closed,3
+TICK000077,CUST0046,2026-06-01,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,0
+TICK000078,CUST0047,2025-03-22,Mobile,Customer asked about mobile data usage shown on the account.,Medium,Closed,0
+TICK000079,CUST0048,2022-10-28,Mobile,Customer requested help activating a new mobile line.,High,Open,
+TICK000080,CUST0048,2022-10-11,TV,Customer reported missing channels from the TV package.,Critical,Closed,2
+TICK000081,CUST0049,2022-12-05,Billing,Customer asked why promotional pricing changed this month.,Medium,In Progress,
+TICK000082,CUST0049,2025-11-10,Billing,Customer requested clarification on monthly bill charges.,Critical,Open,
+TICK000083,CUST0049,2025-07-01,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,7
+TICK000084,CUST0049,2023-05-04,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,In Progress,
+TICK000085,CUST0049,2023-05-11,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Critical,In Progress,
+TICK000086,CUST0049,2026-02-14,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Open,
+TICK000087,CUST0049,2023-08-22,Internet,Customer complained about repeated internet drops during work-from-home hours.,Critical,Open,
+TICK000088,CUST0050,2024-07-13,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,10
+TICK000089,CUST0050,2024-01-15,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Open,
+TICK000090,CUST0051,2025-04-04,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,3
+TICK000091,CUST0051,2024-04-04,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,1
+TICK000092,CUST0051,2025-09-01,TV,Customer reported missing channels from the TV package.,Low,Closed,2
+TICK000093,CUST0052,2025-08-24,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Closed,4
+TICK000094,CUST0052,2024-09-01,Mobile,Customer complained that mobile data was slower than expected.,High,Closed,6
+TICK000095,CUST0052,2025-12-30,Billing,Customer asked why promotional pricing changed this month.,High,Closed,4
+TICK000096,CUST0052,2024-04-19,Mobile,Customer reported dropped calls and slow mobile data speeds.,High,In Progress,
+TICK000097,CUST0052,2025-10-29,Mobile,Customer requested help activating a new mobile line.,High,Closed,4
+TICK000098,CUST0052,2024-06-18,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Closed,8
+TICK000099,CUST0055,2022-07-03,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,6
+TICK000100,CUST0056,2019-02-03,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,0
+TICK000101,CUST0056,2026-03-09,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,In Progress,
+TICK000102,CUST0057,2026-03-20,TV,Customer asked about channel package details.,Medium,Closed,5
+TICK000103,CUST0057,2026-04-02,TV,Customer requested help with streaming app login.,Medium,Open,
+TICK000104,CUST0058,2024-06-22,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Low,In Progress,
+TICK000105,CUST0058,2023-01-01,Internet,Customer reported that internet service is working well after recent upgrade.,Critical,Closed,0
+TICK000106,CUST0059,2026-05-27,TV,Customer asked about channel package details.,Low,Closed,4
+TICK000107,CUST0059,2025-07-10,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,In Progress,
+TICK000108,CUST0060,2026-01-23,Mobile,Customer complained that mobile data was slower than expected.,Medium,In Progress,
+TICK000109,CUST0060,2025-12-10,Billing,Customer requested clarification on monthly bill charges.,High,Closed,1
+TICK000110,CUST0061,2026-04-19,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,9
+TICK000111,CUST0061,2025-09-19,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,10
+TICK000112,CUST0062,2022-06-07,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Low,Closed,9
+TICK000113,CUST0065,2023-09-25,Mobile,Customer requested help activating a new mobile line.,High,Open,
+TICK000114,CUST0065,2026-03-27,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,7
+TICK000115,CUST0066,2025-08-01,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Closed,3
+TICK000116,CUST0067,2025-10-02,TV,Customer asked about channel package details.,Medium,In Progress,
+TICK000117,CUST0067,2025-04-14,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,1
+TICK000118,CUST0069,2024-08-07,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,0
+TICK000119,CUST0070,2026-05-16,Internet,Customer reported that internet service is working well after recent upgrade.,Medium,Closed,0
+TICK000120,CUST0072,2024-06-17,TV,Customer reported missing channels from the TV package.,Medium,Closed,2
+TICK000121,CUST0073,2024-04-18,Service Outage,Customer confirmed service was restored after the outage notification.,Low,Closed,0
+TICK000122,CUST0073,2022-04-28,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,4
+TICK000123,CUST0074,2025-02-11,Billing,Customer disputed an unexpected charge on the monthly bill.,High,Open,
+TICK000124,CUST0074,2026-05-01,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,In Progress,
+TICK000125,CUST0074,2023-03-07,Billing,Customer asked why promotional pricing changed this month.,Low,Open,
+TICK000126,CUST0074,2024-10-18,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Open,
+TICK000127,CUST0074,2024-10-18,Mobile,Customer reported dropped calls and slow mobile data speeds.,High,In Progress,
+TICK000128,CUST0074,2022-10-15,Mobile,Customer complained that mobile data was slower than expected.,High,Closed,6
+TICK000129,CUST0077,2022-03-12,Billing,Customer asked why promotional pricing changed this month.,High,Closed,4
+TICK000130,CUST0077,2024-10-12,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Closed,3
+TICK000131,CUST0079,2024-08-03,Internet,Customer reported that internet service is working well after recent upgrade.,Critical,Closed,0
+TICK000132,CUST0079,2024-07-15,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,7
+TICK000133,CUST0080,2021-12-20,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,0
+TICK000134,CUST0081,2023-12-24,TV,Customer asked about channel package details.,Low,Open,
+TICK000135,CUST0081,2023-02-10,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,8
+TICK000136,CUST0083,2025-08-19,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Closed,2
+TICK000137,CUST0083,2025-03-15,TV,Customer reported missing channels from the TV package.,High,Closed,5
+TICK000138,CUST0083,2023-10-31,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,In Progress,
+TICK000139,CUST0083,2025-08-09,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,3
+TICK000140,CUST0083,2026-04-07,TV,Customer experienced pixelation while watching live TV.,Critical,Open,
+TICK000141,CUST0083,2023-10-12,TV,Customer asked about channel package details.,Medium,Closed,7
+TICK000142,CUST0083,2023-09-10,Billing,Customer thanked support for explaining the promotional discount on the bill.,High,In Progress,
+TICK000143,CUST0084,2025-11-13,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Closed,4
+TICK000144,CUST0085,2025-12-08,Mobile,Customer requested help activating a new mobile line.,Low,Closed,6
+TICK000145,CUST0085,2025-02-16,Mobile,Customer reported dropped calls and slow mobile data speeds.,High,Closed,6
+TICK000146,CUST0086,2023-12-12,Internet,Customer reported that internet service is working well after recent upgrade.,Medium,In Progress,
+TICK000147,CUST0087,2025-01-08,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,In Progress,
+TICK000148,CUST0087,2024-09-05,Billing,Customer was frustrated that payment was posted but balance still showed due.,Critical,Open,
+TICK000149,CUST0087,2026-05-01,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,10
+TICK000150,CUST0087,2025-09-23,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Critical,Closed,0
+TICK000151,CUST0087,2025-08-04,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Open,
+TICK000152,CUST0087,2024-05-22,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,10
+TICK000153,CUST0088,2026-05-25,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,10
+TICK000154,CUST0088,2026-05-07,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Closed,6
+TICK000155,CUST0089,2020-07-05,TV,Customer asked about channel package details.,Medium,Closed,5
+TICK000156,CUST0090,2022-09-13,Service Outage,Customer confirmed service was restored after the outage notification.,Medium,Closed,1
+TICK000157,CUST0090,2024-10-20,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,9
+TICK000158,CUST0091,2025-02-08,Billing,Customer was frustrated that payment was posted but balance still showed due.,Low,Closed,4
+TICK000159,CUST0094,2025-05-11,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,In Progress,
+TICK000160,CUST0096,2026-01-22,TV,Customer asked about channel package details.,Medium,Open,
+TICK000161,CUST0097,2025-09-20,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,7
+TICK000162,CUST0098,2026-04-19,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,9
+TICK000163,CUST0098,2026-03-29,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,9
+TICK000164,CUST0099,2026-04-13,Mobile,Customer reported dropped calls and slow mobile data speeds.,High,Open,
+TICK000165,CUST0100,2026-03-23,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,1
+TICK000166,CUST0100,2026-05-21,Mobile,Customer confirmed mobile line activation was completed successfully.,Low,Closed,5
+TICK000167,CUST0101,2024-07-06,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,8
+TICK000168,CUST0101,2025-04-13,Billing,Customer was frustrated that payment was posted but balance still showed due.,Critical,Closed,1
+TICK000169,CUST0101,2023-01-15,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,6
+TICK000170,CUST0101,2023-02-09,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,5
+TICK000171,CUST0101,2022-12-01,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,4
+TICK000172,CUST0103,2026-03-01,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,In Progress,
+TICK000173,CUST0104,2023-07-15,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,5
+TICK000174,CUST0105,2025-10-03,Billing,Customer asked why promotional pricing changed this month.,Medium,Open,
+TICK000175,CUST0105,2024-10-20,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Open,
+TICK000176,CUST0105,2022-11-01,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,5
+TICK000177,CUST0107,2023-07-24,Service Outage,Customer reported internet and TV outage affecting remote work.,High,In Progress,
+TICK000178,CUST0107,2023-05-06,TV,Customer experienced pixelation while watching live TV.,Low,Closed,10
+TICK000179,CUST0107,2024-11-25,TV,Customer reported missing channels from the TV package.,Medium,In Progress,
+TICK000180,CUST0107,2023-12-03,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Closed,9
+TICK000181,CUST0107,2024-11-21,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,In Progress,
+TICK000182,CUST0107,2025-04-01,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,10
+TICK000183,CUST0107,2024-02-17,Billing,Customer disputed an unexpected charge on the monthly bill.,High,Open,
+TICK000184,CUST0108,2025-11-24,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,3
+TICK000185,CUST0109,2022-05-12,Mobile,Customer confirmed mobile line activation was completed successfully.,Medium,In Progress,
+TICK000186,CUST0109,2022-05-03,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,1
+TICK000187,CUST0109,2023-05-28,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,1
+TICK000188,CUST0110,2023-03-12,TV,Customer reported missing channels from the TV package.,Medium,Closed,9
+TICK000189,CUST0111,2021-12-22,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,3
+TICK000190,CUST0112,2025-12-18,TV,Customer experienced pixelation while watching live TV.,High,Closed,1
+TICK000191,CUST0112,2025-11-13,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,In Progress,
+TICK000192,CUST0112,2026-01-03,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Closed,4
+TICK000193,CUST0112,2025-11-12,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,0
+TICK000194,CUST0112,2026-05-24,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Critical,Closed,2
+TICK000195,CUST0113,2024-09-12,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,2
+TICK000196,CUST0114,2025-08-09,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Open,
+TICK000197,CUST0116,2023-06-05,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,10
+TICK000198,CUST0116,2022-03-06,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,5
+TICK000199,CUST0117,2024-09-20,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,4
+TICK000200,CUST0117,2024-11-10,TV,Customer requested help with streaming app login.,Medium,Closed,3
+TICK000201,CUST0118,2021-06-04,TV,Customer reported missing channels from the TV package.,Medium,In Progress,
+TICK000202,CUST0120,2022-08-29,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,1
+TICK000203,CUST0120,2023-05-10,Billing,Customer requested clarification on monthly bill charges.,Medium,Open,
+TICK000204,CUST0120,2026-02-05,Service Outage,Customer reported internet and TV outage affecting remote work.,Low,Closed,7
+TICK000205,CUST0121,2023-10-16,Billing,Customer asked why promotional pricing changed this month.,Low,Closed,1
+TICK000206,CUST0121,2024-02-11,Mobile,Customer confirmed mobile line activation was completed successfully.,Medium,Closed,10
+TICK000207,CUST0124,2025-04-23,Mobile,Customer asked about mobile data usage shown on the account.,High,In Progress,
+TICK000208,CUST0125,2021-05-19,Service Outage,Customer confirmed service was restored after the outage notification.,High,Closed,4
+TICK000209,CUST0126,2024-10-18,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,0
+TICK000210,CUST0126,2024-09-24,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Closed,10
+TICK000211,CUST0126,2024-10-16,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Open,
+TICK000212,CUST0126,2025-07-08,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Low,Closed,8
+TICK000213,CUST0126,2025-07-18,Mobile,Customer requested help activating a new mobile line.,Medium,In Progress,
+TICK000214,CUST0126,2026-05-16,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Closed,5
+TICK000215,CUST0127,2022-05-27,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Open,
+TICK000216,CUST0128,2025-10-22,TV,Customer requested help with streaming app login.,Low,Closed,2
+TICK000217,CUST0129,2020-05-16,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,4
+TICK000218,CUST0129,2022-08-19,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Open,
+TICK000219,CUST0130,2025-03-07,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,1
+TICK000220,CUST0130,2024-03-18,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,4
+TICK000221,CUST0130,2024-08-01,Internet,Customer reported that internet service is working well after recent upgrade.,High,Closed,1
+TICK000222,CUST0131,2019-09-03,Billing,Customer thanked support for explaining the promotional discount on the bill.,Low,Closed,7
+TICK000223,CUST0132,2026-04-03,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,10
+TICK000224,CUST0132,2025-04-21,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,5
+TICK000225,CUST0132,2023-01-19,TV,Customer requested help with streaming app login.,Medium,Closed,0
+TICK000226,CUST0133,2023-09-25,TV,Customer experienced pixelation while watching live TV.,Low,Open,
+TICK000227,CUST0134,2026-06-15,TV,Customer asked about channel package details.,High,Closed,8
+TICK000228,CUST0135,2023-07-02,TV,Customer reported missing channels from the TV package.,Low,Closed,4
+TICK000229,CUST0136,2022-12-11,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,4
+TICK000230,CUST0139,2025-06-02,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,4
+TICK000231,CUST0142,2023-05-24,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,2
+TICK000232,CUST0142,2024-06-21,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,In Progress,
+TICK000233,CUST0142,2023-05-06,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,1
+TICK000234,CUST0143,2026-05-28,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,8
+TICK000235,CUST0143,2026-05-31,TV,Customer asked about channel package details.,Medium,Closed,9
+TICK000236,CUST0144,2023-06-15,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,4
+TICK000237,CUST0145,2024-02-17,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Low,Closed,8
+TICK000238,CUST0145,2023-03-02,Mobile,Customer requested help activating a new mobile line.,Low,Closed,5
+TICK000239,CUST0146,2023-01-16,Billing,Customer asked why promotional pricing changed this month.,Low,Open,
+TICK000240,CUST0146,2023-05-02,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,In Progress,
+TICK000241,CUST0147,2022-08-22,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,7
+TICK000242,CUST0147,2024-12-03,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,2
+TICK000243,CUST0147,2026-04-02,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,8
+TICK000244,CUST0149,2026-05-26,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,2
+TICK000245,CUST0149,2026-03-06,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Closed,5
+TICK000246,CUST0150,2026-03-13,Service Outage,Customer confirmed service was restored after the outage notification.,Low,Closed,5
+TICK000247,CUST0152,2022-07-12,TV,Customer asked about channel package details.,Low,Closed,5
+TICK000248,CUST0153,2024-05-16,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Critical,Closed,2
+TICK000249,CUST0153,2026-01-08,Mobile,Customer confirmed mobile line activation was completed successfully.,High,Closed,3
+TICK000250,CUST0153,2024-12-02,Mobile,Customer asked about mobile data usage shown on the account.,High,Closed,1
+TICK000251,CUST0154,2026-01-12,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,5
+TICK000252,CUST0154,2025-12-31,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,5
+TICK000253,CUST0155,2023-05-03,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,4
+TICK000254,CUST0156,2023-10-13,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Open,
+TICK000255,CUST0156,2025-12-09,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,8
+TICK000256,CUST0156,2026-02-26,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,3
+TICK000257,CUST0156,2025-11-17,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Closed,6
+TICK000258,CUST0156,2025-07-06,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,In Progress,
+TICK000259,CUST0156,2023-03-10,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Critical,Closed,0
+TICK000260,CUST0156,2024-09-18,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,8
+TICK000261,CUST0156,2025-05-20,Service Outage,Customer reported internet and TV outage affecting remote work.,Critical,Closed,3
+TICK000262,CUST0157,2023-10-31,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Open,
+TICK000263,CUST0157,2023-11-06,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Open,
+TICK000264,CUST0157,2025-10-19,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,1
+TICK000265,CUST0158,2026-02-05,Internet,Customer complained about repeated internet drops during work-from-home hours.,Critical,Open,
+TICK000266,CUST0158,2023-03-30,TV,Customer asked about channel package details.,High,In Progress,
+TICK000267,CUST0158,2025-03-25,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Low,Closed,0
+TICK000268,CUST0158,2023-05-10,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,10
+TICK000269,CUST0158,2023-12-02,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,In Progress,
+TICK000270,CUST0158,2025-08-17,TV,Customer asked about channel package details.,Critical,In Progress,
+TICK000271,CUST0159,2018-02-03,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Closed,9
+TICK000272,CUST0161,2025-03-26,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Low,Closed,5
+TICK000273,CUST0161,2021-12-07,Service Outage,Customer confirmed service was restored after the outage notification.,Low,Closed,0
+TICK000274,CUST0161,2023-01-10,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,9
+TICK000275,CUST0161,2021-02-22,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,10
+TICK000276,CUST0162,2023-02-04,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,9
+TICK000277,CUST0162,2024-03-08,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,8
+TICK000278,CUST0162,2024-03-19,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,5
+TICK000279,CUST0162,2024-07-21,Billing,Customer disputed an unexpected charge on the monthly bill.,High,Closed,1
+TICK000280,CUST0163,2026-05-20,TV,Customer confirmed TV channels were restored after support assistance.,Medium,Closed,8
+TICK000281,CUST0163,2025-01-30,Billing,Customer thanked support for explaining the promotional discount on the bill.,High,Closed,5
+TICK000282,CUST0163,2024-02-19,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,10
+TICK000283,CUST0164,2024-06-01,TV,Customer requested help with streaming app login.,Low,Closed,9
+TICK000284,CUST0164,2024-06-02,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Open,
+TICK000285,CUST0165,2024-04-27,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,7
+TICK000286,CUST0166,2024-09-23,Mobile,Customer requested help activating a new mobile line.,Critical,In Progress,
+TICK000287,CUST0166,2023-08-06,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Open,
+TICK000288,CUST0166,2024-02-19,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,4
+TICK000289,CUST0166,2023-05-18,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,0
+TICK000290,CUST0167,2024-10-14,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Closed,0
+TICK000291,CUST0167,2026-04-22,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,In Progress,
+TICK000292,CUST0167,2025-03-31,TV,Customer reported missing channels from the TV package.,Critical,Closed,1
+TICK000293,CUST0167,2024-08-10,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,6
+TICK000294,CUST0167,2025-05-02,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Critical,In Progress,
+TICK000295,CUST0167,2026-05-09,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,7
+TICK000296,CUST0167,2025-07-24,Billing,Customer was frustrated that payment was posted but balance still showed due.,Critical,In Progress,
+TICK000297,CUST0168,2026-03-08,TV,Customer reported missing channels from the TV package.,Medium,Closed,3
+TICK000298,CUST0169,2022-08-30,Billing,Customer asked why promotional pricing changed this month.,Low,Closed,0
+TICK000299,CUST0170,2021-01-10,TV,Customer asked about channel package details.,Low,Closed,1
+TICK000300,CUST0172,2020-05-04,TV,Customer experienced pixelation while watching live TV.,Low,Closed,6
+TICK000301,CUST0174,2024-01-16,Billing,Customer asked why promotional pricing changed this month.,Medium,Open,
+TICK000302,CUST0174,2025-09-06,Mobile,Customer reported dropped calls and slow mobile data speeds.,High,Closed,2
+TICK000303,CUST0174,2022-11-24,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,4
+TICK000304,CUST0175,2025-10-28,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,2
+TICK000305,CUST0176,2025-11-11,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,4
+TICK000306,CUST0178,2024-10-08,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Closed,9
+TICK000307,CUST0178,2025-02-10,Mobile,Customer confirmed mobile line activation was completed successfully.,Medium,In Progress,
+TICK000308,CUST0178,2023-12-15,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Low,Closed,8
+TICK000309,CUST0178,2024-05-12,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,8
+TICK000310,CUST0180,2023-04-09,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,1
+TICK000311,CUST0181,2024-06-20,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Open,
+TICK000312,CUST0182,2025-09-19,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,8
+TICK000313,CUST0183,2022-08-20,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,0
+TICK000314,CUST0183,2021-07-23,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Open,
+TICK000315,CUST0183,2024-03-27,Mobile,Customer complained that mobile data was slower than expected.,Medium,In Progress,
+TICK000316,CUST0184,2023-08-02,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,4
+TICK000317,CUST0184,2023-11-03,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,In Progress,
+TICK000318,CUST0185,2019-07-05,TV,Customer reported missing channels from the TV package.,High,Closed,0
+TICK000319,CUST0185,2022-06-02,TV,Customer reported missing channels from the TV package.,Medium,Closed,2
+TICK000320,CUST0185,2021-01-31,TV,Customer confirmed TV channels were restored after support assistance.,Medium,Closed,5
+TICK000321,CUST0186,2025-01-05,Mobile,Customer confirmed mobile line activation was completed successfully.,Low,In Progress,
+TICK000322,CUST0187,2026-05-23,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,5
+TICK000323,CUST0187,2022-08-13,TV,Customer reported missing channels from the TV package.,High,In Progress,
+TICK000324,CUST0188,2023-09-19,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,In Progress,
+TICK000325,CUST0188,2025-04-20,TV,Customer asked about channel package details.,Low,Open,
+TICK000326,CUST0188,2025-02-07,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Closed,6
+TICK000327,CUST0190,2023-10-31,Mobile,Customer reported dropped calls and slow mobile data speeds.,Medium,In Progress,
+TICK000328,CUST0190,2024-09-13,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,In Progress,
+TICK000329,CUST0191,2019-08-15,Internet,Customer contacted support to confirm improved internet speed after router replacement.,Low,Open,
+TICK000330,CUST0191,2023-10-19,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,Closed,9
+TICK000331,CUST0195,2025-03-12,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,Closed,8
+TICK000332,CUST0195,2026-05-12,Billing,Customer requested clarification on monthly bill charges.,Critical,Closed,3
+TICK000333,CUST0195,2026-03-21,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,In Progress,
+TICK000334,CUST0195,2025-05-16,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Open,
+TICK000335,CUST0195,2025-06-28,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,6
+TICK000336,CUST0195,2024-12-03,TV,Customer requested help with streaming app login.,Medium,In Progress,
+TICK000337,CUST0195,2025-10-09,TV,Customer experienced pixelation while watching live TV.,High,Closed,2
+TICK000338,CUST0196,2024-04-29,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,5
+TICK000339,CUST0198,2025-06-23,TV,Customer asked about channel package details.,High,Closed,6
+TICK000340,CUST0198,2026-03-18,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Low,Closed,0
+TICK000341,CUST0198,2024-04-12,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,7
+TICK000342,CUST0199,2026-05-23,Internet,Customer complained about repeated internet drops during work-from-home hours.,Low,Closed,0
+TICK000343,CUST0199,2026-04-23,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,8
+TICK000344,CUST0200,2024-02-06,Billing,Customer thanked support for explaining the promotional discount on the bill.,High,Closed,10
+TICK000345,CUST0200,2022-09-08,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,3
+TICK000346,CUST0201,2023-09-20,Mobile,Customer complained that mobile data was slower than expected.,High,Open,
+TICK000347,CUST0201,2025-10-12,Mobile,Customer asked about mobile data usage shown on the account.,Medium,In Progress,
+TICK000348,CUST0201,2024-07-05,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,2
+TICK000349,CUST0202,2025-08-26,TV,Customer confirmed TV channels were restored after support assistance.,High,In Progress,
+TICK000350,CUST0202,2019-07-29,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,5
+TICK000351,CUST0203,2025-07-10,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,10
+TICK000352,CUST0203,2025-07-18,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,Open,
+TICK000353,CUST0204,2025-10-09,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Open,
+TICK000354,CUST0204,2025-03-31,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Closed,4
+TICK000355,CUST0204,2025-05-04,Internet,Customer complained about repeated internet drops during work-from-home hours.,Low,In Progress,
+TICK000356,CUST0204,2026-01-28,Internet,Customer complained about repeated internet drops during work-from-home hours.,Critical,Closed,3
+TICK000357,CUST0204,2025-05-12,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Critical,In Progress,
+TICK000358,CUST0204,2026-02-13,Mobile,Customer reported dropped calls and slow mobile data speeds.,High,Closed,2
+TICK000359,CUST0205,2025-04-18,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,9
+TICK000360,CUST0206,2025-01-16,Billing,Customer disputed an unexpected charge on the monthly bill.,High,Closed,5
+TICK000361,CUST0206,2026-03-01,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Open,
+TICK000362,CUST0206,2025-03-02,Billing,Customer asked why promotional pricing changed this month.,Medium,In Progress,
+TICK000363,CUST0206,2026-01-25,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,8
+TICK000364,CUST0206,2024-12-29,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Open,
+TICK000365,CUST0206,2026-03-23,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Open,
+TICK000366,CUST0206,2025-05-08,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,In Progress,
+TICK000367,CUST0207,2026-02-15,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Open,
+TICK000368,CUST0207,2024-03-29,Internet,Customer complained about repeated internet drops during work-from-home hours.,Critical,In Progress,
+TICK000369,CUST0207,2026-05-19,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Closed,7
+TICK000370,CUST0207,2025-03-12,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Closed,6
+TICK000371,CUST0210,2022-02-25,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,7
+TICK000372,CUST0210,2022-01-10,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,3
+TICK000373,CUST0211,2024-04-28,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Open,
+TICK000374,CUST0211,2025-02-28,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Low,Closed,10
+TICK000375,CUST0211,2021-06-23,Internet,Customer asked for guidance on resetting the modem and router.,High,In Progress,
+TICK000376,CUST0213,2024-05-15,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,6
+TICK000377,CUST0213,2026-02-22,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,7
+TICK000378,CUST0214,2026-03-09,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Open,
+TICK000379,CUST0214,2026-05-30,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Open,
+TICK000380,CUST0214,2025-12-18,Billing,Customer disputed an unexpected charge on the monthly bill.,High,Closed,4
+TICK000381,CUST0214,2026-05-10,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,9
+TICK000382,CUST0214,2025-12-17,Billing,Customer disputed an unexpected charge on the monthly bill.,High,Closed,1
+TICK000383,CUST0214,2025-11-23,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,6
+TICK000384,CUST0215,2026-05-14,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Open,
+TICK000385,CUST0216,2026-01-04,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,3
+TICK000386,CUST0217,2023-06-28,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,0
+TICK000387,CUST0218,2020-06-22,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,5
+TICK000388,CUST0218,2023-05-10,Internet,Customer reported that internet service is working well after recent upgrade.,Low,Closed,0
+TICK000389,CUST0220,2025-12-10,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,In Progress,
+TICK000390,CUST0220,2025-05-16,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,3
+TICK000391,CUST0220,2024-12-20,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,6
+TICK000392,CUST0220,2025-08-10,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,2
+TICK000393,CUST0220,2025-01-24,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,5
+TICK000394,CUST0220,2026-01-05,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,0
+TICK000395,CUST0220,2025-01-01,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Closed,10
+TICK000396,CUST0221,2026-04-30,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,10
+TICK000397,CUST0222,2024-03-23,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Open,
+TICK000398,CUST0222,2024-12-29,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Closed,3
+TICK000399,CUST0222,2024-01-02,Service Outage,Customer reported internet and TV outage affecting remote work.,Critical,Closed,3
+TICK000400,CUST0222,2025-03-31,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,9
+TICK000401,CUST0222,2025-05-27,Mobile,Customer complained that mobile data was slower than expected.,Critical,Open,
+TICK000402,CUST0222,2023-11-30,Billing,Customer was frustrated that payment was posted but balance still showed due.,Critical,Open,
+TICK000403,CUST0223,2026-04-03,Mobile,Customer requested help activating a new mobile line.,Medium,Open,
+TICK000404,CUST0224,2026-02-10,Billing,Customer asked why promotional pricing changed this month.,Critical,Closed,1
+TICK000405,CUST0224,2026-01-20,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,7
+TICK000406,CUST0224,2025-07-12,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,4
+TICK000407,CUST0224,2025-07-02,Internet,Customer asked for guidance on resetting the modem and router.,High,In Progress,
+TICK000408,CUST0224,2025-07-08,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,In Progress,
+TICK000409,CUST0224,2025-01-02,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Open,
+TICK000410,CUST0224,2026-03-15,Billing,Customer thanked support for explaining the promotional discount on the bill.,High,Closed,1
+TICK000411,CUST0226,2022-02-20,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,10
+TICK000412,CUST0226,2025-12-16,Billing,Customer asked why promotional pricing changed this month.,Low,Closed,8
+TICK000413,CUST0228,2025-05-03,Billing,Customer was frustrated that payment was posted but balance still showed due.,Low,Closed,10
+TICK000414,CUST0228,2025-01-08,Billing,Customer disputed an unexpected charge on the monthly bill.,Low,Closed,4
+TICK000415,CUST0228,2026-04-13,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Closed,4
+TICK000416,CUST0228,2025-03-03,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,Open,
+TICK000417,CUST0230,2025-08-13,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Critical,Closed,2
+TICK000418,CUST0230,2025-08-02,Service Outage,Customer reported internet and TV outage affecting remote work.,High,In Progress,
+TICK000419,CUST0230,2026-02-22,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,7
+TICK000420,CUST0230,2025-11-03,Internet,Customer asked for guidance on resetting the modem and router.,Critical,Closed,0
+TICK000421,CUST0230,2025-06-06,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Critical,Open,
+TICK000422,CUST0230,2026-05-19,Mobile,Customer complained that mobile data was slower than expected.,High,Closed,5
+TICK000423,CUST0230,2026-05-15,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,3
+TICK000424,CUST0231,2025-08-25,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,4
+TICK000425,CUST0231,2023-03-06,Billing,Customer asked why promotional pricing changed this month.,Low,Closed,0
+TICK000426,CUST0231,2025-06-02,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,0
+TICK000427,CUST0231,2021-02-08,Billing,Customer requested clarification on monthly bill charges.,Low,In Progress,
+TICK000428,CUST0232,2021-03-26,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,7
+TICK000429,CUST0233,2025-09-27,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,3
+TICK000430,CUST0234,2023-07-18,TV,Customer experienced pixelation while watching live TV.,High,In Progress,
+TICK000431,CUST0234,2022-05-09,TV,Customer asked about channel package details.,Medium,Closed,3
+TICK000432,CUST0235,2026-03-23,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,1
+TICK000433,CUST0236,2023-12-06,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,10
+TICK000434,CUST0236,2026-01-25,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,9
+TICK000435,CUST0237,2026-04-07,Billing,Customer requested clarification on monthly bill charges.,Critical,Closed,2
+TICK000436,CUST0237,2025-12-04,Mobile,Customer complained that mobile data was slower than expected.,Low,Open,
+TICK000437,CUST0237,2025-01-19,TV,Customer experienced pixelation while watching live TV.,High,Open,
+TICK000438,CUST0237,2024-09-30,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,4
+TICK000439,CUST0237,2025-09-15,Mobile,Customer complained that mobile data was slower than expected.,Medium,Open,
+TICK000440,CUST0237,2024-10-16,Mobile,Customer complained that mobile data was slower than expected.,Medium,Closed,0
+TICK000441,CUST0237,2024-11-15,TV,Customer requested help with streaming app login.,High,Closed,9
+TICK000442,CUST0239,2024-04-17,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Closed,7
+TICK000443,CUST0239,2025-10-19,Billing,Customer was frustrated that payment was posted but balance still showed due.,Low,Closed,7
+TICK000444,CUST0239,2022-08-07,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,In Progress,
+TICK000445,CUST0239,2023-01-31,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,6
+TICK000446,CUST0239,2025-01-30,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,10
+TICK000447,CUST0239,2023-01-03,Mobile,Customer reported dropped calls and slow mobile data speeds.,Medium,Closed,7
+TICK000448,CUST0239,2025-04-11,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Open,
+TICK000449,CUST0241,2024-06-26,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,5
+TICK000450,CUST0242,2025-07-19,Mobile,Customer requested help activating a new mobile line.,High,Closed,4
+TICK000451,CUST0242,2024-04-01,Billing,Customer requested clarification on monthly bill charges.,High,Closed,5
+TICK000452,CUST0243,2026-04-22,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,0
+TICK000453,CUST0243,2025-06-27,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Closed,4
+TICK000454,CUST0245,2026-03-10,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,Closed,8
+TICK000455,CUST0245,2026-04-17,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,3
+TICK000456,CUST0246,2022-07-02,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,3
+TICK000457,CUST0247,2026-04-11,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,In Progress,
+TICK000458,CUST0247,2026-03-03,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Closed,9
+TICK000459,CUST0248,2026-06-01,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,0
+TICK000460,CUST0249,2026-01-23,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,1
+TICK000461,CUST0249,2024-09-13,Internet,Customer reported that internet service is working well after recent upgrade.,Low,Closed,10
+TICK000462,CUST0250,2023-04-27,Billing,Customer requested clarification on monthly bill charges.,High,Closed,6
+TICK000463,CUST0250,2022-04-04,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,6
+TICK000464,CUST0250,2025-07-23,Mobile,Customer reported dropped calls and slow mobile data speeds.,Medium,Closed,5
+TICK000465,CUST0251,2025-03-25,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,6
+TICK000466,CUST0251,2024-06-07,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Closed,9
+TICK000467,CUST0251,2025-03-30,Internet,Customer asked for guidance on resetting the modem and router.,Low,Open,
+TICK000468,CUST0251,2025-09-25,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,In Progress,
+TICK000469,CUST0251,2026-01-10,Service Outage,Customer confirmed service was restored after the outage notification.,Critical,Open,
+TICK000470,CUST0252,2024-11-17,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Critical,Closed,0
+TICK000471,CUST0252,2023-11-16,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,In Progress,
+TICK000472,CUST0252,2026-04-29,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,6
+TICK000473,CUST0252,2025-01-17,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,In Progress,
+TICK000474,CUST0254,2025-12-27,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,8
+TICK000475,CUST0254,2026-01-02,Mobile,Customer reported dropped calls and slow mobile data speeds.,High,Closed,1
+TICK000476,CUST0256,2024-11-14,TV,Customer requested help with streaming app login.,Medium,Closed,6
+TICK000477,CUST0257,2026-05-22,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,4
+TICK000478,CUST0257,2025-08-08,Mobile,Customer requested help activating a new mobile line.,Medium,Closed,6
+TICK000479,CUST0257,2025-07-24,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,4
+TICK000480,CUST0257,2025-05-31,Internet,Customer complained about repeated internet drops during work-from-home hours.,Low,Closed,6
+TICK000481,CUST0257,2025-06-19,Internet,Customer complained about repeated internet drops during work-from-home hours.,Low,In Progress,
+TICK000482,CUST0257,2026-03-24,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Closed,4
+TICK000483,CUST0257,2025-10-07,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,5
+TICK000484,CUST0257,2026-01-20,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,7
+TICK000485,CUST0258,2024-12-18,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,3
+TICK000486,CUST0259,2025-04-28,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,2
+TICK000487,CUST0259,2025-07-24,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,3
+TICK000488,CUST0261,2024-05-02,TV,Customer requested help with streaming app login.,High,Closed,4
+TICK000489,CUST0261,2023-05-24,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Open,
+TICK000490,CUST0262,2023-02-02,Billing,Customer requested clarification on monthly bill charges.,High,Open,
+TICK000491,CUST0263,2025-09-16,Mobile,Customer asked about mobile data usage shown on the account.,Medium,Closed,8
+TICK000492,CUST0264,2025-11-27,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,In Progress,
+TICK000493,CUST0264,2025-08-08,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,0
+TICK000494,CUST0264,2025-09-19,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Open,
+TICK000495,CUST0264,2025-10-01,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,6
+TICK000496,CUST0266,2026-01-21,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,5
+TICK000497,CUST0266,2025-11-27,Billing,Customer was frustrated that payment was posted but balance still showed due.,Low,In Progress,
+TICK000498,CUST0267,2024-08-06,Billing,Customer requested clarification on monthly bill charges.,High,Closed,6
+TICK000499,CUST0267,2025-09-15,Service Outage,Customer reported internet and TV outage affecting remote work.,Critical,Closed,1
+TICK000500,CUST0267,2025-07-13,Mobile,Customer requested help activating a new mobile line.,High,Closed,7
+TICK000501,CUST0267,2024-05-07,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Closed,10
+TICK000502,CUST0267,2025-06-01,Billing,Customer disputed an unexpected charge on the monthly bill.,High,Closed,6
+TICK000503,CUST0267,2025-07-05,Mobile,Customer complained that mobile data was slower than expected.,High,Closed,2
+TICK000504,CUST0267,2023-11-18,Billing,Customer requested clarification on monthly bill charges.,Critical,Closed,2
+TICK000505,CUST0267,2025-07-16,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Closed,0
+TICK000506,CUST0268,2026-05-25,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,6
+TICK000507,CUST0268,2025-04-26,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,1
+TICK000508,CUST0269,2022-01-07,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,3
+TICK000509,CUST0271,2023-10-02,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,8
+TICK000510,CUST0272,2022-10-07,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Closed,9
+TICK000511,CUST0272,2024-03-16,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,In Progress,
+TICK000512,CUST0272,2023-01-10,Billing,Customer requested clarification on monthly bill charges.,High,Closed,1
+TICK000513,CUST0272,2026-05-20,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,In Progress,
+TICK000514,CUST0272,2024-11-18,Service Outage,Customer reported internet and TV outage affecting remote work.,Low,In Progress,
+TICK000515,CUST0272,2024-04-10,Mobile,Customer complained that mobile data was slower than expected.,Medium,Closed,4
+TICK000516,CUST0273,2022-09-09,Internet,Customer contacted support to confirm improved internet speed after router replacement.,Medium,Closed,2
+TICK000517,CUST0274,2025-09-02,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,6
+TICK000518,CUST0274,2025-08-28,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,1
+TICK000519,CUST0275,2021-11-17,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,0
+TICK000520,CUST0279,2025-06-07,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Low,Closed,1
+TICK000521,CUST0280,2026-03-27,Billing,Customer asked why promotional pricing changed this month.,High,Closed,8
+TICK000522,CUST0281,2023-04-11,Internet,Customer reported that internet service is working well after recent upgrade.,Low,Open,
+TICK000523,CUST0282,2025-07-27,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Low,Closed,4
+TICK000524,CUST0283,2021-07-25,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,1
+TICK000525,CUST0284,2021-04-21,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Open,
+TICK000526,CUST0285,2022-07-09,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,9
+TICK000527,CUST0286,2023-10-01,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,High,In Progress,
+TICK000528,CUST0288,2026-05-03,TV,Customer experienced pixelation while watching live TV.,Low,Open,
+TICK000529,CUST0288,2022-06-06,Internet,Customer reported that internet service is working well after recent upgrade.,Low,Closed,5
+TICK000530,CUST0289,2025-09-09,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,2
+TICK000531,CUST0289,2023-11-09,Mobile,Customer complained that mobile data was slower than expected.,Medium,Closed,1
+TICK000532,CUST0290,2023-09-20,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,3
+TICK000533,CUST0291,2024-05-20,Billing,Customer requested clarification on monthly bill charges.,High,Closed,1
+TICK000534,CUST0291,2023-06-09,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,10
+TICK000535,CUST0292,2020-10-04,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Closed,6
+TICK000536,CUST0292,2021-03-24,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Critical,Closed,1
+TICK000537,CUST0292,2022-11-18,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Low,Closed,2
+TICK000538,CUST0292,2024-12-08,Mobile,Customer requested help activating a new mobile line.,Low,Closed,8
+TICK000539,CUST0293,2026-04-21,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,5
+TICK000540,CUST0293,2025-07-31,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,Closed,1
+TICK000541,CUST0294,2018-12-04,Billing,Customer thanked support for explaining the promotional discount on the bill.,High,Closed,2
+TICK000542,CUST0295,2024-04-21,Billing,Customer thanked support for explaining the promotional discount on the bill.,Low,Open,
+TICK000543,CUST0297,2026-05-07,Billing,Customer disputed an unexpected charge on the monthly bill.,High,Closed,1
+TICK000544,CUST0297,2025-10-09,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Open,
+TICK000545,CUST0297,2025-04-04,Internet,Customer asked for guidance on resetting the modem and router.,Medium,In Progress,
+TICK000546,CUST0297,2024-11-10,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,In Progress,
+TICK000547,CUST0297,2025-11-09,Mobile,Customer asked about mobile data usage shown on the account.,Medium,Closed,10
+TICK000548,CUST0297,2025-03-17,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Closed,7
+TICK000549,CUST0297,2026-02-03,Billing,Customer disputed an unexpected charge on the monthly bill.,Critical,Closed,0
+TICK000550,CUST0298,2024-04-23,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Low,Closed,8
+TICK000551,CUST0298,2025-03-12,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,2
+TICK000552,CUST0299,2024-10-27,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,0
+TICK000553,CUST0299,2024-05-16,Billing,Customer thanked support for explaining the promotional discount on the bill.,Low,Closed,8
+TICK000554,CUST0300,2025-03-11,Mobile,Customer requested help activating a new mobile line.,Low,Closed,10
+TICK000555,CUST0302,2026-04-11,Internet,Customer reported that internet service is working well after recent upgrade.,Critical,Closed,2
+TICK000556,CUST0303,2026-01-26,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,4
+TICK000557,CUST0304,2025-05-07,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Open,
+TICK000558,CUST0304,2023-10-14,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,In Progress,
+TICK000559,CUST0304,2023-05-10,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Open,
+TICK000560,CUST0304,2025-05-13,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,In Progress,
+TICK000561,CUST0304,2025-07-12,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Open,
+TICK000562,CUST0305,2021-05-16,Billing,Customer thanked support for explaining the promotional discount on the bill.,Low,Closed,8
+TICK000563,CUST0306,2024-03-12,Mobile,Customer requested help activating a new mobile line.,High,Closed,1
+TICK000564,CUST0306,2019-04-23,Mobile,Customer confirmed mobile line activation was completed successfully.,Medium,Closed,3
+TICK000565,CUST0307,2025-06-28,Service Outage,Customer confirmed service was restored after the outage notification.,Medium,In Progress,
+TICK000566,CUST0309,2025-06-02,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Closed,7
+TICK000567,CUST0309,2024-09-03,Mobile,Customer reported dropped calls and slow mobile data speeds.,Medium,Closed,6
+TICK000568,CUST0309,2025-12-17,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,In Progress,
+TICK000569,CUST0309,2026-04-23,Billing,Customer thanked support for explaining the promotional discount on the bill.,High,Open,
+TICK000570,CUST0309,2026-05-28,Mobile,Customer asked about mobile data usage shown on the account.,High,Closed,3
+TICK000571,CUST0310,2024-08-08,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,1
+TICK000572,CUST0310,2025-08-12,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,3
+TICK000573,CUST0311,2022-05-02,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Open,
+TICK000574,CUST0311,2020-03-15,Mobile,Customer asked about mobile data usage shown on the account.,Low,Open,
+TICK000575,CUST0313,2024-02-19,Billing,Customer thanked support for explaining the promotional discount on the bill.,Low,In Progress,
+TICK000576,CUST0313,2022-12-07,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,2
+TICK000577,CUST0313,2024-07-18,Service Outage,Customer confirmed service was restored after the outage notification.,Medium,Closed,1
+TICK000578,CUST0314,2023-07-12,Mobile,Customer confirmed mobile line activation was completed successfully.,High,Closed,5
+TICK000579,CUST0315,2025-03-31,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,In Progress,
+TICK000580,CUST0315,2025-09-29,Internet,Customer reported that internet service is working well after recent upgrade.,High,Closed,8
+TICK000581,CUST0315,2023-09-28,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,0
+TICK000582,CUST0315,2025-01-01,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,6
+TICK000583,CUST0315,2023-06-12,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,1
+TICK000584,CUST0315,2024-01-11,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,9
+TICK000585,CUST0315,2025-09-09,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,0
+TICK000586,CUST0316,2026-03-09,Billing,Customer thanked support for explaining the promotional discount on the bill.,Low,Closed,7
+TICK000587,CUST0316,2025-10-08,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,3
+TICK000588,CUST0317,2024-09-12,Mobile,Customer confirmed mobile line activation was completed successfully.,Medium,Closed,4
+TICK000589,CUST0317,2022-09-06,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,6
+TICK000590,CUST0319,2025-04-12,Mobile,Customer asked about mobile data usage shown on the account.,Medium,Closed,8
+TICK000591,CUST0319,2024-01-22,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,Closed,0
+TICK000592,CUST0320,2025-01-28,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Critical,In Progress,
+TICK000593,CUST0320,2024-10-09,Service Outage,Customer reported internet and TV outage affecting remote work.,High,In Progress,
+TICK000594,CUST0320,2025-11-06,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Open,
+TICK000595,CUST0320,2025-12-31,Mobile,Customer reported dropped calls and slow mobile data speeds.,High,Open,
+TICK000596,CUST0321,2024-12-26,Internet,Customer complained about repeated internet drops during work-from-home hours.,Critical,In Progress,
+TICK000597,CUST0321,2025-12-12,Mobile,Customer requested help activating a new mobile line.,Critical,Closed,0
+TICK000598,CUST0321,2024-07-18,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Closed,7
+TICK000599,CUST0321,2025-02-06,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Closed,7
+TICK000600,CUST0321,2026-05-25,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,0
+TICK000601,CUST0321,2025-12-28,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,In Progress,
+TICK000602,CUST0321,2023-08-10,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Closed,7
+TICK000603,CUST0321,2025-08-16,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Critical,In Progress,
+TICK000604,CUST0322,2025-03-14,Internet,Customer reported that internet service is working well after recent upgrade.,High,Closed,2
+TICK000605,CUST0323,2019-12-03,Service Outage,Customer confirmed service was restored after the outage notification.,Low,Open,
+TICK000606,CUST0324,2020-01-14,Service Outage,Customer confirmed service was restored after the outage notification.,Medium,Closed,9
+TICK000607,CUST0325,2022-11-13,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Closed,6
+TICK000608,CUST0325,2024-03-06,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,2
+TICK000609,CUST0326,2025-12-14,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,6
+TICK000610,CUST0326,2026-04-01,TV,Customer confirmed TV channels were restored after support assistance.,Medium,In Progress,
+TICK000611,CUST0326,2024-03-17,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,3
+TICK000612,CUST0327,2025-12-18,Mobile,Customer requested help activating a new mobile line.,Low,In Progress,
+TICK000613,CUST0327,2022-11-25,Mobile,Customer complained that mobile data was slower than expected.,High,Closed,6
+TICK000614,CUST0327,2024-11-28,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,7
+TICK000615,CUST0328,2022-05-21,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,5
+TICK000616,CUST0328,2021-02-27,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,In Progress,
+TICK000617,CUST0329,2025-01-05,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,7
+TICK000618,CUST0329,2025-11-09,Mobile,Customer reported dropped calls and slow mobile data speeds.,Critical,Closed,1
+TICK000619,CUST0329,2024-05-14,Billing,Customer asked why promotional pricing changed this month.,High,Closed,2
+TICK000620,CUST0329,2024-01-19,Mobile,Customer reported dropped calls and slow mobile data speeds.,High,In Progress,
+TICK000621,CUST0329,2025-09-22,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Closed,6
+TICK000622,CUST0330,2025-01-30,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,4
+TICK000623,CUST0331,2025-10-27,Mobile,Customer confirmed mobile line activation was completed successfully.,Low,Closed,4
+TICK000624,CUST0331,2025-12-03,Internet,Customer contacted support to confirm improved internet speed after router replacement.,High,Closed,7
+TICK000625,CUST0332,2024-07-01,Service Outage,Customer reported internet and TV outage affecting remote work.,Low,Closed,8
+TICK000626,CUST0333,2026-01-23,Internet,Customer contacted support to confirm improved internet speed after router replacement.,Medium,Closed,4
+TICK000627,CUST0333,2024-03-16,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,In Progress,
+TICK000628,CUST0335,2025-03-19,Internet,Customer complained about repeated internet drops during work-from-home hours.,Critical,In Progress,
+TICK000629,CUST0335,2023-03-06,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Low,Open,
+TICK000630,CUST0335,2025-05-19,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,8
+TICK000631,CUST0335,2026-02-15,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Open,
+TICK000632,CUST0335,2025-03-25,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Open,
+TICK000633,CUST0335,2023-05-04,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Critical,Open,
+TICK000634,CUST0335,2025-06-30,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Closed,2
+TICK000635,CUST0335,2026-03-05,Internet,Customer complained about repeated internet drops during work-from-home hours.,Critical,Open,
+TICK000636,CUST0336,2023-04-25,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,1
+TICK000637,CUST0337,2023-10-28,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,9
+TICK000638,CUST0337,2023-07-29,Mobile,Customer reported dropped calls and slow mobile data speeds.,Critical,Closed,0
+TICK000639,CUST0337,2026-02-02,Mobile,Customer reported dropped calls and slow mobile data speeds.,High,Open,
+TICK000640,CUST0337,2026-04-25,Mobile,Customer requested help activating a new mobile line.,Critical,Closed,0
+TICK000641,CUST0337,2024-08-16,Mobile,Customer complained that mobile data was slower than expected.,Critical,In Progress,
+TICK000642,CUST0338,2025-08-24,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,Closed,9
+TICK000643,CUST0338,2025-01-14,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,2
+TICK000644,CUST0338,2025-07-31,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,2
+TICK000645,CUST0338,2025-06-03,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Closed,6
+TICK000646,CUST0338,2025-07-22,Mobile,Customer requested help activating a new mobile line.,Medium,Closed,0
+TICK000647,CUST0338,2025-12-16,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Open,
+TICK000648,CUST0338,2025-01-23,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Open,
+TICK000649,CUST0339,2024-07-11,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,10
+TICK000650,CUST0340,2019-02-16,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,9
+TICK000651,CUST0340,2024-09-13,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Closed,8
+TICK000652,CUST0340,2020-10-04,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Low,Closed,9
+TICK000653,CUST0341,2025-06-04,Billing,Customer asked why promotional pricing changed this month.,High,Closed,0
+TICK000654,CUST0341,2026-04-10,Billing,Customer requested clarification on monthly bill charges.,High,In Progress,
+TICK000655,CUST0341,2025-05-03,Internet,Customer asked for guidance on resetting the modem and router.,Medium,In Progress,
+TICK000656,CUST0341,2025-05-20,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,8
+TICK000657,CUST0341,2024-11-08,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,2
+TICK000658,CUST0341,2024-03-06,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Open,
+TICK000659,CUST0341,2025-07-06,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,In Progress,
+TICK000660,CUST0342,2025-09-09,Mobile,Customer complained that mobile data was slower than expected.,Medium,Closed,9
+TICK000661,CUST0342,2024-10-17,Service Outage,Customer reported internet and TV outage affecting remote work.,Low,Closed,10
+TICK000662,CUST0343,2024-09-27,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,0
+TICK000663,CUST0345,2021-12-27,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,5
+TICK000664,CUST0346,2025-07-04,Mobile,Customer complained that mobile data was slower than expected.,Medium,In Progress,
+TICK000665,CUST0346,2025-11-29,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,Closed,7
+TICK000666,CUST0346,2024-01-01,Mobile,Customer requested help activating a new mobile line.,Medium,Closed,6
+TICK000667,CUST0346,2026-02-14,Mobile,Customer complained that mobile data was slower than expected.,Medium,Open,
+TICK000668,CUST0346,2025-03-10,Billing,Customer disputed an unexpected charge on the monthly bill.,Critical,Closed,0
+TICK000669,CUST0346,2024-09-22,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Closed,1
+TICK000670,CUST0347,2025-12-28,Service Outage,Customer reported internet and TV outage affecting remote work.,Low,Closed,4
+TICK000671,CUST0348,2021-12-31,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,3
+TICK000672,CUST0349,2025-09-11,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,In Progress,
+TICK000673,CUST0349,2025-12-16,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,0
+TICK000674,CUST0350,2023-11-30,Mobile,Customer confirmed mobile line activation was completed successfully.,Medium,In Progress,
+TICK000675,CUST0351,2025-08-22,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,In Progress,
+TICK000676,CUST0353,2025-02-01,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,2
+TICK000677,CUST0354,2026-04-27,TV,Customer requested help with streaming app login.,Medium,Closed,5
+TICK000678,CUST0355,2026-04-08,TV,Customer confirmed TV channels were restored after support assistance.,Critical,Closed,3
+TICK000679,CUST0357,2023-08-12,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,0
+TICK000680,CUST0358,2020-09-29,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,5
+TICK000681,CUST0358,2021-11-08,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,8
+TICK000682,CUST0360,2024-02-16,Mobile,Customer complained that mobile data was slower than expected.,Medium,Closed,3
+TICK000683,CUST0360,2024-08-22,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,7
+TICK000684,CUST0362,2021-10-20,Mobile,Customer requested help activating a new mobile line.,Medium,Closed,3
+TICK000685,CUST0363,2026-03-01,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,In Progress,
+TICK000686,CUST0363,2024-11-15,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,Closed,1
+TICK000687,CUST0363,2026-03-03,Billing,Customer disputed an unexpected charge on the monthly bill.,High,In Progress,
+TICK000688,CUST0363,2023-10-22,Mobile,Customer reported dropped calls and slow mobile data speeds.,Medium,In Progress,
+TICK000689,CUST0363,2025-04-09,Billing,Customer asked why promotional pricing changed this month.,Medium,Open,
+TICK000690,CUST0365,2023-06-09,Mobile,Customer requested help activating a new mobile line.,Critical,Closed,2
+TICK000691,CUST0367,2021-08-21,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Low,Open,
+TICK000692,CUST0367,2023-11-26,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,6
+TICK000693,CUST0367,2021-11-14,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,4
+TICK000694,CUST0368,2024-01-06,Mobile,Customer reported dropped calls and slow mobile data speeds.,Critical,In Progress,
+TICK000695,CUST0368,2024-06-12,Mobile,Customer reported dropped calls and slow mobile data speeds.,Medium,Closed,8
+TICK000696,CUST0368,2025-02-25,Billing,Customer requested clarification on monthly bill charges.,High,In Progress,
+TICK000697,CUST0368,2025-07-05,Billing,Customer disputed an unexpected charge on the monthly bill.,Low,Closed,5
+TICK000698,CUST0368,2023-09-20,Mobile,Customer complained that mobile data was slower than expected.,High,Closed,10
+TICK000699,CUST0368,2024-06-06,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Open,
+TICK000700,CUST0369,2025-08-10,TV,Customer requested help with streaming app login.,Medium,Closed,6
+TICK000701,CUST0370,2025-08-19,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Open,
+TICK000702,CUST0370,2025-09-19,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Critical,Closed,0
+TICK000703,CUST0370,2026-02-21,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,7
+TICK000704,CUST0370,2026-02-21,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Closed,0
+TICK000705,CUST0370,2026-05-22,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,In Progress,
+TICK000706,CUST0371,2019-08-19,Service Outage,Customer confirmed service was restored after the outage notification.,Medium,Closed,9
+TICK000707,CUST0375,2025-12-15,Internet,Customer complained about repeated internet drops during work-from-home hours.,Low,Closed,6
+TICK000708,CUST0378,2025-02-11,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,10
+TICK000709,CUST0379,2025-09-26,TV,Customer reported missing channels from the TV package.,Low,In Progress,
+TICK000710,CUST0379,2025-05-10,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Closed,4
+TICK000711,CUST0379,2025-09-10,TV,Customer asked about channel package details.,Medium,Closed,7
+TICK000712,CUST0379,2026-05-05,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,Open,
+TICK000713,CUST0379,2025-10-04,Billing,Customer was frustrated that payment was posted but balance still showed due.,Critical,In Progress,
+TICK000714,CUST0379,2026-05-13,Service Outage,Customer reported internet and TV outage affecting remote work.,Critical,In Progress,
+TICK000715,CUST0381,2025-09-10,Internet,Customer contacted support to confirm improved internet speed after router replacement.,Medium,Closed,3
+TICK000716,CUST0381,2024-10-12,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,0
+TICK000717,CUST0383,2025-06-29,TV,Customer asked about channel package details.,Low,Open,
+TICK000718,CUST0387,2023-04-11,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Open,
+TICK000719,CUST0388,2025-07-17,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,In Progress,
+TICK000720,CUST0388,2024-09-22,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,In Progress,
+TICK000721,CUST0388,2026-01-05,Mobile,Customer reported dropped calls and slow mobile data speeds.,Medium,Closed,2
+TICK000722,CUST0388,2024-06-29,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Closed,0
+TICK000723,CUST0389,2025-08-25,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,3
+TICK000724,CUST0390,2023-04-30,TV,Customer experienced pixelation while watching live TV.,Critical,Closed,2
+TICK000725,CUST0390,2025-05-12,TV,Customer experienced pixelation while watching live TV.,High,In Progress,
+TICK000726,CUST0390,2024-02-26,TV,Customer experienced pixelation while watching live TV.,High,Closed,7
+TICK000727,CUST0390,2025-04-08,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,6
+TICK000728,CUST0391,2021-02-12,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,10
+TICK000729,CUST0392,2025-08-23,Billing,Customer disputed an unexpected charge on the monthly bill.,Medium,In Progress,
+TICK000730,CUST0392,2026-05-23,Internet,Customer complained about repeated internet drops during work-from-home hours.,Critical,Closed,0
+TICK000731,CUST0392,2025-08-23,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,3
+TICK000732,CUST0392,2025-04-15,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,4
+TICK000733,CUST0392,2025-04-19,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Open,
+TICK000734,CUST0392,2025-12-21,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Open,
+TICK000735,CUST0392,2025-01-21,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,3
+TICK000736,CUST0393,2026-02-09,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,In Progress,
+TICK000737,CUST0393,2026-05-09,Billing,Customer thanked support for explaining the promotional discount on the bill.,High,Closed,10
+TICK000738,CUST0393,2025-01-11,Internet,Customer contacted support to confirm improved internet speed after router replacement.,Medium,Closed,7
+TICK000739,CUST0394,2023-08-06,Mobile,Customer asked about mobile data usage shown on the account.,High,Closed,10
+TICK000740,CUST0394,2025-04-10,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,10
+TICK000741,CUST0395,2020-06-18,Service Outage,Customer confirmed service was restored after the outage notification.,Low,Closed,1
+TICK000742,CUST0395,2024-08-20,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,0
+TICK000743,CUST0396,2026-05-19,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,10
+TICK000744,CUST0397,2019-04-08,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,2
+TICK000745,CUST0397,2021-03-13,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Closed,2
+TICK000746,CUST0397,2026-02-02,Internet,Customer complained about repeated internet drops during work-from-home hours.,Critical,Closed,0
+TICK000747,CUST0397,2018-10-31,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,8
+TICK000748,CUST0398,2023-07-08,Service Outage,Customer confirmed service was restored after the outage notification.,Low,Closed,1
+TICK000749,CUST0399,2022-11-16,Billing,Customer asked why promotional pricing changed this month.,Low,Closed,5
+TICK000750,CUST0400,2025-08-01,Mobile,Customer requested help activating a new mobile line.,Medium,Open,
+TICK000751,CUST0401,2026-01-11,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,5
+TICK000752,CUST0404,2024-05-18,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,1
+TICK000753,CUST0404,2022-04-17,Internet,Customer reported that internet service is working well after recent upgrade.,High,Open,
+TICK000754,CUST0406,2026-02-23,Internet,Customer asked for guidance on resetting the modem and router.,Low,In Progress,
+TICK000755,CUST0406,2023-11-30,Mobile,Customer complained that mobile data was slower than expected.,Medium,Closed,6
+TICK000756,CUST0406,2024-07-15,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,7
+TICK000757,CUST0407,2023-07-10,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,10
+TICK000758,CUST0407,2022-10-01,Mobile,Customer requested help activating a new mobile line.,High,Closed,1
+TICK000759,CUST0408,2023-12-08,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,5
+TICK000760,CUST0408,2023-09-12,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,7
+TICK000761,CUST0408,2021-11-17,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Closed,1
+TICK000762,CUST0408,2023-03-27,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Open,
+TICK000763,CUST0409,2023-09-29,Service Outage,Customer confirmed service was restored after the outage notification.,Low,Closed,6
+TICK000764,CUST0409,2022-12-05,Mobile,Customer asked about mobile data usage shown on the account.,Medium,Closed,10
+TICK000765,CUST0411,2026-04-09,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,In Progress,
+TICK000766,CUST0414,2023-01-02,Billing,Customer asked why promotional pricing changed this month.,Low,Closed,1
+TICK000767,CUST0415,2024-08-07,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,7
+TICK000768,CUST0415,2023-03-28,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,0
+TICK000769,CUST0415,2023-04-16,Service Outage,Customer confirmed service was restored after the outage notification.,Critical,Open,
+TICK000770,CUST0415,2024-07-21,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,1
+TICK000771,CUST0416,2025-01-20,Mobile,Customer asked about mobile data usage shown on the account.,Critical,Closed,2
+TICK000772,CUST0416,2024-03-07,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,2
+TICK000773,CUST0416,2023-08-22,Service Outage,Customer confirmed service was restored after the outage notification.,Low,Closed,6
+TICK000774,CUST0420,2021-04-15,TV,Customer requested help with streaming app login.,Medium,Closed,2
+TICK000775,CUST0420,2024-11-20,Billing,Customer disputed an unexpected charge on the monthly bill.,Low,In Progress,
+TICK000776,CUST0420,2026-04-30,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,6
+TICK000777,CUST0421,2025-03-17,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,5
+TICK000778,CUST0421,2026-05-23,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,6
+TICK000779,CUST0421,2024-02-11,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,Closed,2
+TICK000780,CUST0422,2023-01-18,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,Closed,0
+TICK000781,CUST0423,2023-07-28,Mobile,Customer requested help activating a new mobile line.,Critical,Closed,0
+TICK000782,CUST0423,2025-10-28,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Closed,1
+TICK000783,CUST0423,2024-09-18,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Closed,9
+TICK000784,CUST0423,2024-02-11,Mobile,Customer reported dropped calls and slow mobile data speeds.,Low,Closed,1
+TICK000785,CUST0424,2026-03-25,Billing,Customer thanked support for explaining the promotional discount on the bill.,High,Closed,8
+TICK000786,CUST0424,2026-05-18,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,8
+TICK000787,CUST0425,2026-05-30,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,9
+TICK000788,CUST0426,2023-05-30,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,1
+TICK000789,CUST0426,2022-11-08,TV,Customer asked about channel package details.,Critical,Open,
+TICK000790,CUST0428,2019-07-31,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,Open,
+TICK000791,CUST0429,2024-06-20,Service Outage,Customer confirmed service was restored after the outage notification.,Medium,Closed,9
+TICK000792,CUST0429,2024-08-14,Mobile,Customer reported dropped calls and slow mobile data speeds.,Medium,Open,
+TICK000793,CUST0429,2026-02-25,Mobile,Customer asked about mobile data usage shown on the account.,Low,Closed,6
+TICK000794,CUST0429,2023-08-26,Mobile,Customer asked about mobile data usage shown on the account.,Low,Closed,6
+TICK000795,CUST0429,2024-09-18,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,Closed,1
+TICK000796,CUST0429,2024-11-01,Mobile,Customer reported dropped calls and slow mobile data speeds.,Medium,Closed,9
+TICK000797,CUST0430,2024-04-18,Service Outage,Customer confirmed service was restored after the outage notification.,Low,Closed,7
+TICK000798,CUST0430,2026-03-07,Mobile,Customer confirmed mobile line activation was completed successfully.,High,Closed,6
+TICK000799,CUST0430,2024-09-20,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,4
+TICK000800,CUST0431,2025-09-23,TV,Customer requested help with streaming app login.,Medium,Closed,2
+TICK000801,CUST0431,2024-06-25,Billing,Customer asked why promotional pricing changed this month.,Low,Closed,2
+TICK000802,CUST0431,2024-09-02,TV,Customer requested help with streaming app login.,Low,Open,
+TICK000803,CUST0432,2026-04-04,TV,Customer asked about channel package details.,Medium,Closed,9
+TICK000804,CUST0432,2024-06-27,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,0
+TICK000805,CUST0433,2023-07-10,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Closed,4
+TICK000806,CUST0433,2022-04-11,Internet,Customer asked for guidance on resetting the modem and router.,High,Open,
+TICK000807,CUST0433,2026-02-17,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Open,
+TICK000808,CUST0433,2023-06-16,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,In Progress,
+TICK000809,CUST0435,2025-07-06,Mobile,Customer asked about mobile data usage shown on the account.,Low,Closed,3
+TICK000810,CUST0435,2024-01-29,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,6
+TICK000811,CUST0437,2022-04-08,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Closed,9
+TICK000812,CUST0438,2023-07-27,TV,Customer requested help with streaming app login.,Medium,Closed,3
+TICK000813,CUST0439,2024-12-25,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Low,Closed,4
+TICK000814,CUST0439,2023-01-22,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,4
+TICK000815,CUST0440,2024-11-02,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,7
+TICK000816,CUST0442,2025-09-08,Internet,Customer asked for guidance on resetting the modem and router.,Medium,In Progress,
+TICK000817,CUST0442,2025-04-24,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,10
+TICK000818,CUST0442,2019-09-21,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,8
+TICK000819,CUST0443,2025-03-14,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,8
+TICK000820,CUST0443,2024-09-28,TV,Customer reported missing channels from the TV package.,High,Open,
+TICK000821,CUST0443,2025-05-29,TV,Customer confirmed TV channels were restored after support assistance.,Medium,In Progress,
+TICK000822,CUST0444,2024-06-23,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Open,
+TICK000823,CUST0447,2022-04-09,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,8
+TICK000824,CUST0448,2023-02-11,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,1
+TICK000825,CUST0448,2025-03-24,Internet,Customer asked for guidance on resetting the modem and router.,Low,Open,
+TICK000826,CUST0449,2026-05-07,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,1
+TICK000827,CUST0449,2026-05-19,Service Outage,Customer confirmed service was restored after the outage notification.,Low,Closed,4
+TICK000828,CUST0450,2023-02-04,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,0
+TICK000829,CUST0451,2021-03-23,Billing,Customer requested clarification on monthly bill charges.,Low,Closed,5
+TICK000830,CUST0452,2025-03-27,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,9
+TICK000831,CUST0452,2025-02-01,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,10
+TICK000832,CUST0452,2023-12-01,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,9
+TICK000833,CUST0453,2026-05-16,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,6
+TICK000834,CUST0453,2020-09-22,Mobile,Customer asked about mobile data usage shown on the account.,Medium,Closed,6
+TICK000835,CUST0453,2023-06-23,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,Closed,7
+TICK000836,CUST0453,2023-08-19,Mobile,Customer confirmed mobile line activation was completed successfully.,Medium,In Progress,
+TICK000837,CUST0454,2025-03-22,Internet,Customer asked for guidance on resetting the modem and router.,Low,Closed,6
+TICK000838,CUST0455,2025-10-17,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,7
+TICK000839,CUST0456,2025-08-23,TV,Customer requested help with streaming app login.,Medium,Closed,4
+TICK000840,CUST0456,2023-06-07,TV,Customer asked about channel package details.,Medium,Closed,1
+TICK000841,CUST0457,2023-06-10,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Medium,Closed,7
+TICK000842,CUST0458,2021-10-10,Billing,Customer requested clarification on monthly bill charges.,Medium,Closed,3
+TICK000843,CUST0458,2024-05-13,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,In Progress,
+TICK000844,CUST0458,2018-11-25,Billing,Customer thanked support for explaining the promotional discount on the bill.,Low,Closed,10
+TICK000845,CUST0459,2023-11-05,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Low,Closed,8
+TICK000846,CUST0459,2025-05-13,Billing,Customer asked why promotional pricing changed this month.,Medium,Closed,0
+TICK000847,CUST0459,2023-09-04,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,4
+TICK000848,CUST0460,2022-12-17,TV,Customer reported missing channels from the TV package.,High,Closed,5
+TICK000849,CUST0460,2023-09-15,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,In Progress,
+TICK000850,CUST0460,2024-02-21,TV,Customer requested help with streaming app login.,Low,Open,
+TICK000851,CUST0460,2023-08-06,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Open,
+TICK000852,CUST0460,2023-03-16,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,In Progress,
+TICK000853,CUST0460,2024-04-16,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Closed,2
+TICK000854,CUST0460,2025-05-12,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,In Progress,
+TICK000855,CUST0462,2023-10-11,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,5
+TICK000856,CUST0462,2023-05-10,Service Outage,Customer confirmed service was restored after the outage notification.,High,Closed,9
+TICK000857,CUST0462,2023-05-14,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,In Progress,
+TICK000858,CUST0462,2024-12-02,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Closed,5
+TICK000859,CUST0462,2022-12-30,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Closed,8
+TICK000860,CUST0462,2025-10-10,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Closed,8
+TICK000861,CUST0464,2020-04-11,Internet,Customer reported that internet service is working well after recent upgrade.,High,Closed,1
+TICK000862,CUST0465,2024-11-26,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Open,
+TICK000863,CUST0465,2024-04-07,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Critical,Open,
+TICK000864,CUST0465,2023-02-13,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,In Progress,
+TICK000865,CUST0465,2026-01-13,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Open,
+TICK000866,CUST0465,2024-06-01,Mobile,Customer complained that mobile data was slower than expected.,Low,Closed,7
+TICK000867,CUST0465,2024-11-25,Billing,Customer was frustrated that payment was posted but balance still showed due.,High,Open,
+TICK000868,CUST0465,2022-12-15,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Open,
+TICK000869,CUST0466,2024-03-26,Service Outage,Customer confirmed service was restored after the outage notification.,Medium,Open,
+TICK000870,CUST0467,2022-12-15,Billing,Customer was frustrated that payment was posted but balance still showed due.,Medium,Closed,5
+TICK000871,CUST0467,2024-12-24,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Closed,9
+TICK000872,CUST0467,2023-07-15,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Closed,2
+TICK000873,CUST0467,2022-08-19,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,In Progress,
+TICK000874,CUST0467,2024-06-06,Internet,Customer asked for guidance on resetting the modem and router.,Critical,Closed,2
+TICK000875,CUST0467,2023-03-20,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,6
+TICK000876,CUST0467,2023-06-01,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Closed,8
+TICK000877,CUST0467,2023-02-27,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Open,
+TICK000878,CUST0468,2021-10-07,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,8
+TICK000879,CUST0469,2023-03-28,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,Open,
+TICK000880,CUST0469,2022-08-19,Mobile,Customer requested help activating a new mobile line.,Low,Closed,4
+TICK000881,CUST0471,2023-05-31,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,Medium,Open,
+TICK000882,CUST0471,2024-04-28,Internet,Customer asked for guidance on resetting the modem and router.,High,Closed,10
+TICK000883,CUST0471,2025-10-09,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Open,
+TICK000884,CUST0471,2024-08-27,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,In Progress,
+TICK000885,CUST0471,2022-06-05,Internet,Customer complained about repeated internet drops during work-from-home hours.,Medium,Closed,3
+TICK000886,CUST0471,2026-05-29,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,Closed,0
+TICK000887,CUST0471,2025-01-04,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,10
+TICK000888,CUST0471,2024-04-18,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,In Progress,
+TICK000889,CUST0472,2025-06-05,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Closed,9
+TICK000890,CUST0472,2024-02-22,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,In Progress,
+TICK000891,CUST0472,2025-10-17,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Low,Closed,2
+TICK000892,CUST0472,2024-05-06,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,In Progress,
+TICK000893,CUST0472,2026-02-07,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,In Progress,
+TICK000894,CUST0472,2024-09-01,Service Outage,Customer was dissatisfied with repeated service outages in the area.,High,Closed,0
+TICK000895,CUST0472,2025-04-12,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Closed,1
+TICK000896,CUST0472,2024-10-07,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,7
+TICK000897,CUST0473,2024-08-06,Mobile,Customer complained that mobile data was slower than expected.,Low,Open,
+TICK000898,CUST0473,2025-09-27,Mobile,Customer requested help activating a new mobile line.,Low,Closed,1
+TICK000899,CUST0474,2025-08-15,Mobile,Customer reported dropped calls and slow mobile data speeds.,Critical,Closed,0
+TICK000900,CUST0474,2021-03-10,Internet,Customer reported that internet service is working well after recent upgrade.,Low,Closed,4
+TICK000901,CUST0474,2021-01-09,Billing,Customer thanked support for explaining the promotional discount on the bill.,Medium,Closed,10
+TICK000902,CUST0475,2025-11-06,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Medium,In Progress,
+TICK000903,CUST0476,2022-12-04,TV,Customer experienced pixelation while watching live TV.,Medium,Open,
+TICK000904,CUST0476,2022-06-24,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Closed,5
+TICK000905,CUST0476,2024-03-13,Mobile,Customer confirmed mobile line activation was completed successfully.,Medium,Closed,1
+TICK000906,CUST0476,2023-07-13,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,2
+TICK000907,CUST0477,2024-10-23,Internet,Customer asked for guidance on resetting the modem and router.,Medium,In Progress,
+TICK000908,CUST0477,2025-06-16,Internet,Customer complained about repeated internet drops during work-from-home hours.,Critical,Closed,0
+TICK000909,CUST0477,2026-01-19,Internet,Customer reported slow internet speeds every evening between 7 PM and 10 PM.,High,In Progress,
+TICK000910,CUST0477,2025-02-18,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Critical,Closed,2
+TICK000911,CUST0477,2025-09-28,Internet,Customer complained about repeated internet drops during work-from-home hours.,High,Closed,5
+TICK000912,CUST0477,2025-05-25,Mobile,Customer reported dropped calls and slow mobile data speeds.,Critical,Open,
+TICK000913,CUST0477,2026-05-12,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,Closed,1
+TICK000914,CUST0479,2020-06-02,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Open,
+TICK000915,CUST0479,2022-09-25,Internet,Customer reported that internet service is working well after recent upgrade.,Medium,In Progress,
+TICK000916,CUST0479,2024-01-23,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Critical,Closed,1
+TICK000917,CUST0479,2020-05-22,Internet,Customer requested help troubleshooting intermittent Wi-Fi connectivity.,Low,Closed,3
+TICK000918,CUST0480,2024-01-13,Internet,Customer reported that internet service is working well after recent upgrade.,High,Closed,3
+TICK000919,CUST0481,2026-02-08,Service Outage,Customer was dissatisfied with repeated service outages in the area.,Medium,Closed,10
+TICK000920,CUST0482,2020-01-22,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Medium,Closed,3
+TICK000921,CUST0483,2025-07-30,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Closed,4
+TICK000922,CUST0484,2025-12-07,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,In Progress,
+TICK000923,CUST0484,2025-02-02,TV,Customer reported missing channels from the TV package.,High,Closed,7
+TICK000924,CUST0484,2025-11-16,TV,Customer experienced pixelation while watching live TV.,Medium,Closed,0
+TICK000925,CUST0484,2026-05-16,TV,Customer reported missing channels from the TV package.,Medium,In Progress,
+TICK000926,CUST0484,2025-01-07,Service Outage,Customer reported internet and TV outage affecting remote work.,Medium,Closed,3
+TICK000927,CUST0484,2025-05-29,TV,Customer reported missing channels from the TV package.,Critical,Closed,0
+TICK000928,CUST0484,2026-03-10,TV,Customer reported missing channels from the TV package.,High,In Progress,
+TICK000929,CUST0486,2026-04-07,TV,Customer requested help with streaming app login.,High,Closed,0
+TICK000930,CUST0487,2026-02-12,Internet,Customer asked for guidance on resetting the modem and router.,Medium,Open,
+TICK000931,CUST0489,2026-04-30,Mobile,Customer requested help activating a new mobile line.,Medium,Closed,2
+TICK000932,CUST0490,2023-12-08,Service Outage,Customer requested estimated restoration time for neighborhood outage.,Low,Closed,8
+TICK000933,CUST0491,2025-08-11,Internet,Customer stated that the router reboot did not fix the connectivity issue.,High,Closed,7
+TICK000934,CUST0491,2026-01-19,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Closed,6
+TICK000935,CUST0491,2024-07-28,Billing,Customer asked why promotional pricing changed this month.,Low,Closed,5
+TICK000936,CUST0491,2025-09-29,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Critical,Open,
+TICK000937,CUST0491,2025-05-29,Service Outage,Customer requested estimated restoration time for neighborhood outage.,High,Closed,8
+TICK000938,CUST0491,2024-10-22,Internet,Customer asked for guidance on resetting the modem and router.,Low,Open,
+TICK000939,CUST0491,2024-09-01,Billing,Customer was frustrated that payment was posted but balance still showed due.,Critical,Closed,1
+TICK000940,CUST0491,2024-12-19,Service Outage,Customer reported internet and TV outage affecting remote work.,High,Closed,8
+TICK000941,CUST0494,2025-06-03,Internet,Customer stated that the router reboot did not fix the connectivity issue.,Low,Closed,0
+TICK000942,CUST0495,2026-02-11,Billing,Customer requested clarification on monthly bill charges.,Low,Closed,3
+TICK000943,CUST0497,2024-09-27,Mobile,Customer asked about mobile data usage shown on the account.,Medium,Closed,7
+TICK000944,CUST0497,2022-12-22,Internet,Customer reported that internet service is working well after recent upgrade.,Medium,Closed,6

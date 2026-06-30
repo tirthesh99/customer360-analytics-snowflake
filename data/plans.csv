@@ -1,0 +1,11 @@
+plan_id,plan_name,service_type,monthly_price,internet_speed_mbps,plan_category
+PLAN001,Spectrum Internet 300 Mbps,Internet,49.99,300.0,Standard
+PLAN002,Spectrum Internet 500 Mbps,Internet,69.99,500.0,Standard
+PLAN003,Spectrum Internet Gig,Internet,89.99,1000.0,Premium
+PLAN004,Spectrum Mobile Basic,Mobile,29.99,,Basic
+PLAN005,Spectrum Mobile Unlimited,Mobile,45.0,,Premium
+PLAN006,Spectrum TV Select,TV,64.99,,Standard
+PLAN007,Spectrum TV Premium,TV,94.99,,Premium
+PLAN008,Internet + Mobile Bundle,Bundle,109.99,500.0,Bundle
+PLAN009,Internet + TV Bundle,Bundle,129.99,500.0,Bundle
+PLAN010,Business Internet Pro,Business,149.99,1000.0,Business
