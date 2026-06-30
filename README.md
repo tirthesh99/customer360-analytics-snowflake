@@ -273,16 +273,6 @@ Includes:
 
 ✅ AI Executive Summary
 
----
-
-# 🔮 Future Enhancements
-
-- Live Snowflake Cortex Integration
-- Customer-level AI Assistant
-- Predictive Churn Modeling
-- Revenue Forecasting
-- Natural Language Analytics
-- Role-Based Dashboard Security
 
 ---
 
