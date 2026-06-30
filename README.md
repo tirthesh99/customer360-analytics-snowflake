@@ -280,14 +280,11 @@ Includes:
 
 **Tirthesh Kode**
 
-MS Information Systems  
-University of Texas at Arlington
-
 GitHub:
 https://github.com/tirthesh99
 
 LinkedIn:
-(Add your LinkedIn URL)
+www.linkedin.com/in/tirtheshk
 
 ---
 
